@@ -1,9 +1,11 @@
-# SECAR PID + Kinematics Simulation (2-body / 3-body, depth sampling, multi-Ex)
+# Kinematics Calculation and SECAR PID
+
+_This README file is AI-generated_
+_This code is an adaptation of original scripts from Ruchi Garg_
 
 ## Overview
 
 This Python workflow simulates reaction kinematics and downstream energy-loss transport for SECAR-style PID studies. It can run either **2-body kinematics** (beam + target → heavy recoil + light ejectile) or **3-body kinematics** (heavy recoil + 2 neutrons), includes **random reaction-depth sampling** inside the gas target, and propagates particles through the remaining target and downstream materials up to the detector stack.
-_This code is an adaptation of original scripts from Ruchi Garg_
 
 ## What it calculates
 
