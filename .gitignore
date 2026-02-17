@@ -2,10 +2,13 @@
 *.npz
 __pycache__/
 VICAR_outputs/*.txt
-VICAR_dedx/
+VICAR_dedx/*
+VICAR_outputs/.gitkeep
+VICAR_dedx/.gitkeep
 *.png
 *.csv
-SRIM_outputs/*txt
+SRIM_outputs/*.txt
+SRIM_outputs/.gitkeep
 plot_range.py
 plot_pid_new.py
 plot_pid.py
