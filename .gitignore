@@ -1,0 +1,11 @@
+.DS_Store
+*.npz
+__pycache__/
+VICAR_outputs/
+VICAR_dedx
+*.png
+*.csv
+SRIM_outputs
+plot_range.py
+plot_pid_new.py
+plot_pid.py
